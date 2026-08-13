@@ -1,0 +1,26 @@
+{
+  "name": "SIGNAL//5 コンピュータ・クイズバトル",
+  "short_name": "SIGNAL//5",
+  "description": "○×10問で装備を整え、四択ボスに挑むコンピュータ学習クイズゲーム",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f1ea",
+  "theme_color": "#0a0a0c",
+  "icons": [
+    {
+      "src": "./assets/signal5/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/signal5/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
